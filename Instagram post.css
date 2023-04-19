@@ -1,0 +1,80 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(21, 22, 22);
+  }
+  
+  .post-header {
+    background-color: rgb(250, 242, 242) ;
+    display: flex;
+    text-align:left;
+    height: 5%;
+    width: 120%;
+    margin-top: 10%;
+  }
+  
+  .post-footer{
+    background-color: rgb(247, 242, 242);
+    width: 120%;
+    }
+  
+  .left{
+    float: left;
+    width: 10%;
+    margin: auto;
+  }
+  
+  .right {
+    float: right;
+    width: 10%;
+  }
+  
+  .center {
+    display:inline-block;
+    width: 80%;
+  }
+  
+  #dots {
+    position: relative;
+    float: right;
+    top: 20px;
+    right: 10px;
+    cursor: pointer;
+    
+  }
+  
+  #logo {
+    position: relative;
+    left: 10px;
+  }
+  
+  .post{
+    width: 500px;
+    margin: 0 auto;
+    border: 1px black;
+  
+  }
+  
+  .img{
+    width: 100%;
+    
+  }
+  
+  .icons{
+    cursor: pointer;
+    padding: 4px;
+    
+    
+  }
+  
+  .flag{
+    float: right;
+  }
+  
+  p {
+    margin: 2px;
+    padding: 8px;
+  }
+
+  .post-image {
+    width: 120%;    
+  }
